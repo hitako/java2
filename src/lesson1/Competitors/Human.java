@@ -66,5 +66,4 @@ public class Human implements Competitor{
     public String getType() {
         return "Человек";
     }
-
 }

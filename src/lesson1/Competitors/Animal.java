@@ -72,4 +72,5 @@ public abstract class Animal implements Competitor{
     public int maxSwimDistance() {
         return this.maxSwimDistance;
     }
+
 }

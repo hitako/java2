@@ -37,4 +37,5 @@ public class Team {
             System.out.println(competitor.getName() + " прошел все дистанции: " + competitor.isOnDistance());
         }
     }
+
 }
